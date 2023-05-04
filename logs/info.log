@@ -1,0 +1,78 @@
+INFO 2023-04-28 14:16:15,556 [root:main.py:optimize:99]
+Run ID: 041b5591c16b473594dbe01c1ce9797f
+
+INFO 2023-04-28 14:18:40,372 [root:main.py:optimize:99]
+Run ID: d711cff7537d42d18c75d9012047b272
+
+INFO 2023-04-28 14:19:11,956 [root:main.py:optimize:99]
+Run ID: efd19df3629c4adc9a71211f15966afc
+
+INFO 2023-04-28 14:21:27,467 [root:main.py:optimize:99]
+Run ID: 76fc5fb0aa2a4466a1842ca32278f789
+
+INFO 2023-04-28 14:21:53,853 [root:main.py:optimize:99]
+Run ID: 31bbfa5b58394e86a4d1d698b723b185
+
+INFO 2023-04-28 14:22:50,893 [root:main.py:optimize:99]
+Run ID: e4ba4836a08145adbbdc75ed55b73de9
+
+INFO 2023-04-28 14:25:43,199 [root:main.py:optimize:99]
+Run ID: df41f9edce3743d19ec22144ee9ea6e0
+
+INFO 2023-04-28 14:27:21,799 [root:main.py:optimize:99]
+Run ID: aba1bf457cb848f19e1c70df448388c3
+
+INFO 2023-04-28 14:27:44,652 [root:main.py:optimize:99]
+Run ID: eee84917c4b3454688e9368aedb4ded3
+
+INFO 2023-04-28 14:32:59,861 [root:main.py:optimize:101]
+Run ID: c2aeb39c2f0a4dffa0a1331e68cb5bea
+
+INFO 2023-05-02 11:26:30,609 [root:main.py:optimize:127]
+Run ID: ca992415877846249039b598ef78ec84
+
+INFO 2023-05-02 11:27:01,858 [root:main.py:optimize:127]
+Run ID: 0fb2a9ed89704020aa9dc56cdd2dcd01
+
+INFO 2023-05-02 11:27:39,877 [root:main.py:optimize:127]
+Run ID: 8e65745f847b432bbde3f91604c15a57
+
+INFO 2023-05-02 11:31:55,161 [root:main.py:optimize:127]
+Run ID: 02288161ffbe47f49608802892106331
+
+INFO 2023-05-02 11:35:02,089 [root:main.py:optimize:127]
+Run ID: 847122048f954a64936ee7a3dd3a3495
+
+INFO 2023-05-02 11:38:12,967 [root:main.py:optimize:127]
+Run ID: acd6f52b38864207acf1a556b8bf467c
+
+INFO 2023-05-02 11:43:38,219 [root:main.py:optimize:127]
+Run ID: 5c22d743eba24bf3acbacdc58ffc1939
+
+INFO 2023-05-02 11:44:26,663 [root:main.py:optimize:127]
+Run ID: 84280ab51b804ded840da6f6157559bf
+
+INFO 2023-05-02 11:45:03,050 [root:main.py:optimize:127]
+Run ID: ea2ef21b201444bb98899da2e12a6b9d
+
+INFO 2023-05-02 11:45:33,384 [root:main.py:optimize:127]
+Run ID: afc02a32d38e45c28e5b54edbc62a1b3
+
+INFO 2023-05-02 11:51:12,966 [root:main.py:optimize:127]
+Run ID: c48f36dc19d74bd68853d86e3e6a868d
+
+INFO 2023-05-02 11:53:29,877 [root:main.py:optimize:127]
+Run ID: ff25639a622740eab819e989699709e4
+
+INFO 2023-05-02 11:55:27,809 [root:main.py:optimize:127]
+Run ID: 971871ea07664cc5970fc5db879ea23d
+
+INFO 2023-05-02 12:07:54,146 [root:main.py:optimize:127]
+Run ID: e1ddae7a607641409627c3f10ca483d2
+
+INFO 2023-05-04 10:53:11,389 [root:train.py:train_original:105]
+Training Loss per 5000 steps: 1.6123194694519043
+
+INFO 2023-05-04 10:53:12,435 [root:train.py:train_original:106]
+Training Accuracy per 5000 steps: 18.75
+
