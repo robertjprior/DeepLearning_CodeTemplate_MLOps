@@ -129,13 +129,16 @@ def train_original(args, df, trial=None):
                 pred = outputs.argmax(dim=1, keepdim=True)
                 correct += pred.eq(targets.view_as(pred)).sum().item()
                 eval_nb_tr_examples+=targets.size(0)
+        accuracy = correct / eval_nb_tr_examples
         if not epoch%10:
            logger.info(
                 f"Epoch: {epoch:02d} | "
                 f"train_loss: {tr_loss:.5f}, "
-                f"val_loss: {val_loss:.5f}")
+                f"train_accuracy: {(n_correct*100)/nb_tr_examples:.5f}, "
+                f"val_loss: {val_loss:.5f}, "
+                f"val accuracy: {accuracy:.5f}")
 
-        accuracy = correct / eval_nb_tr_examples
+        
         if trial:
             trial.report(accuracy, epoch)
             trial.report(val_loss, epoch)
