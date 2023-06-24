@@ -1,0 +1,13 @@
+name: training_bert
+channels:
+  - defaults
+dependencies:
+  - python=3.11.3
+  - transformers=4.28.1
+  - mlflow=1.2.0
+  - optuna=3.1.1
+  - scikit-learn=1.2.2
+  - evaluate=0.4.0
+  - tqdm=4.65.0
+  - numpyencoder=0.3.0
+prefix: /Users/robertprior/opt/anaconda3/envs/training_bert

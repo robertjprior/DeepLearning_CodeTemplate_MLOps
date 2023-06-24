@@ -1,0 +1,7 @@
+We'll define these core operations inside main.py as we move code from notebooks to the appropriate scripts below:
+
+elt_data: extract, load and transform data.
+optimize: tune hyperparameters to optimize for objective.
+train_model: train a model using best parameters from optimization study.
+load_artifacts: load trained artifacts from a given run.
+predict_tag: predict a tag for a given input.

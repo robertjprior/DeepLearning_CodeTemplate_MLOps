@@ -1,0 +1,6 @@
+#incomplete but can use to replace args.json if desired
+
+[main]
+shuffle = true
+subset = null
+min_freq = 75
