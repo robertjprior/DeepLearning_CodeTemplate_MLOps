@@ -1,1 +1,0 @@
-https://madewithml.com/courses/mlops/testing/

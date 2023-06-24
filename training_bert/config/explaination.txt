@@ -1,3 +1,0 @@
-config/
-├── args.json       - arguments
-└── config.py       - configuration setup
